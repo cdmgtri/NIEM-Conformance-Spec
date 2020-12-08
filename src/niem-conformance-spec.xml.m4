@@ -28,12 +28,12 @@
   </subsection>
 
   <subsection>
-    <title>Document status</title>
-    <p>This document is the specification for general NIEM conformance. It represents the collaborative work of the NIEM Business Architecture Committee (NBAC) and the NIEM Technical Architecture Committee (NTAC).</p>
+    <title>Status</title>
+    <p>This document is a draft of the specification for general NIEM conformance. It represents the collaborative work of the NIEM Business Architecture Committee (NBAC) and the NIEM Technical Architecture Committee (NTAC).</p>
     
-    <p>This document is a product of the NIEM Management Office (MO).</p>
+    <p>This document is a product of the NIEM Management Office (NMO).</p>
     
-    <p>Send comments on this specification via email to <link href="mailto:niem-comments@lists.gatech.edu">niem-comments@lists.gatech.edu</link>.</p>
+    <p>Updates, revisions, and errata for this specification are posted to <link>https://github.com/NIEM/NIEM-Conformance-Spec</link>. Please submit comments on this specification as issues at <link>https://github.com/NIEM/NIEM-Conformance-Spec/issues</link>.</p>
 
   </subsection>
 

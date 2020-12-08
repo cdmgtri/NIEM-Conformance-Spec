@@ -14,13 +14,13 @@ Authors
 
    Jim Cabral, MTG Management (<jec@mtgmc.com>), Lead author
 
-Document status
+Status
 
-   This document is the specification for general NIEM conformance. It represents the collaborative work of the NIEM Business Architecture Committee (NBAC) and the NIEM Technical Architecture Committee (NTAC).
+   This document is a draft of the specification for general NIEM conformance. It represents the collaborative work of the NIEM Business Architecture Committee (NBAC) and the NIEM Technical Architecture Committee (NTAC).
 
-   This document is a product of the NIEM Management Office (MO).
+   This document is a product of the NIEM Management Office (NMO).
 
-   Send comments on this specification via email to niem-comments@lists.gatech.edu.
+   Updates, revisions, and errata for this specification are posted to https://github.com/NIEM/NIEM-Conformance-Spec. Please submit comments on this specification as issues at https://github.com/NIEM/NIEM-Conformance-Spec/issues.
 
 Table of contents
 
