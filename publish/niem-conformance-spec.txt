@@ -1,8 +1,8 @@
 National Information Exchange Model Conformance Specification
 
-Version 5.0
+Version 5.0alpha1
 
-November 25, 2020
+December 17, 2020
 
 NIEM Technical Architecture Committee (NTAC)
 
@@ -52,7 +52,7 @@ Table of contents
 
       *  Conformant message specification (also known as an IEPD)
 
-   Documents may use the attribute defined in the [NIEM Conformance Targets Attribute Specification 4.0] Section 1.3, Description of the Conformance Targets Attribute to claim that the document conforms to one or more NIEM conformance targets.
+   Documents may use the attribute defined in the [NIEM Conformance Targets Attribute Specification 3.0] Section 1.3, Description of the Conformance Targets Attribute to claim that the document conforms to one or more NIEM conformance targets.
 
 3.1. Conformant instance document
 
@@ -66,7 +66,7 @@ Table of contents
 
 3.3. Conformant message specifications (IEPD)
 
-   A conformant message specification is a package of files that conforms to the rules specified in the [NIEM MPD Specification 4.0] or the [NIEM Message Specification Rules and Conventions].
+   A conformant message specification is a package of files that conforms to the rules specified in the [NIEM IEPD Specification 5.0].
 
 4. Implementations cannot conform with NIEM
 
@@ -108,21 +108,19 @@ Table of contents
 
 6.2. Message specifications
 
-   Message specifications, message instances, and schema document sets other than those listed above are not under the control of the NIEM MO and no formal certification process exists. Therefore, it is important for NIEM users and developers to understand and make a concerted effort to ensure message specifications they produce conform to the [NIEM MPD Specification 4.0] or the [NIEM Message Specification Rules and Conventions].
+   Message specifications, message instances, and schema document sets other than those listed above are not under the control of the NIEM MO and no formal certification process exists. Therefore, it is important for NIEM users and developers to understand and make a concerted effort to ensure message specifications they produce conform to the [NIEM IEPD Specification 5.0].
 
 Appendix A. References
 
-   [NIEM Conformance Targets Attribute Specification 4.0]: Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/
+   [NIEM Conformance Targets Attribute Specification 3.0]: Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/.
 
-   [NIEM NDR 5.0]: NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from TBD
+   [NIEM NDR 5.0]: NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from https://reference.niem.gov/niem/specification/naming-and-design-rules/.
 
-   [NIEM MPD Specification 4.0]: NIEM Model Package Description (MPD) Specification, Version 4.0, NIEM Technical Architecture Committee (NTAC), 15 August 2014. Available from http://reference.niem.gov/niem/specification/model-package-description/4.0/
+   [NIEM IEPD Specification 5.0]: NIEM Information Exchange Package Documentation (IEPD) Specification, Version 5.0, NIEM Technical Architecture Committee (NTAC), December 17 2020. Available from http://reference.niem.gov/niem/specification/model-package-description/.
 
-   [NIEM Message Specification Rules and Conventions]: NIEM Message Specification Rules and Conventions, Version 1.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from TBD
+   [NIEM Tools Catalog]: NIEM Tools Catalog, NIEM Management Office (MO). Available from https://www.niem.gov/tools-catalog.
 
-   [NIEM Tools Catalog]: NIEM Tools Catalog, NIEM Management Office (MO). Available from https://www.niem.gov/tools-catalog
-
-   [Efficient XML Interchange (EXI)]: Efficient XML Interchange (EXI) Format 1.0 (Second Edition), W3C. Available from https://www.w3.org/TR/exi/
+   [Efficient XML Interchange (EXI)]: Efficient XML Interchange (EXI) Format 1.0 (Second Edition), W3C. Available from https://www.w3.org/TR/exi/.
 
 Appendix B. Index of definitions
 

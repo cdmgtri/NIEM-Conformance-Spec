@@ -98,7 +98,7 @@
     <section>
       <title>Conformant message specifications (IEPD)</title>
 
-      <p>A conformant message specification is a package of files that conforms to the rules specified in the <ref idref="NIEMMPDSpecification40"/> or the <ref idref="NIEMMessageSpecificationRulesandConventions"/>.</p>
+      <p>A conformant message specification is a package of files that conforms to the rules specified in the <ref idref="NIEMIEPDSpecification50"/>.</p>
 
     </section>
 
@@ -160,7 +160,7 @@
     <section>
       <title>Message specifications</title>
 
-      <p>Message specifications, message instances, and schema document sets other than those listed above are not under the control of the NIEM MO and no formal certification process exists. Therefore, it is important for NIEM users and developers to understand and make a concerted effort to ensure message specifications they produce conform to the <ref idref="NIEMMPDSpecification40"/> or the <ref idref="NIEMMessageSpecificationRulesandConventions"/>.</p>
+      <p>Message specifications, message instances, and schema document sets other than those listed above are not under the control of the NIEM MO and no formal certification process exists. Therefore, it is important for NIEM users and developers to understand and make a concerted effort to ensure message specifications they produce conform to the <ref idref="NIEMIEPDSpecification50"/>.</p>
 
     </section>
 
@@ -169,39 +169,34 @@
   <section id="references" isAppendix="true">
     <title>References</title>
 
-    <reference id="CTAS" label="NIEM Conformance Targets Attribute Specification 4.0">
+    <reference id="CTAS" label="NIEM Conformance Targets Attribute Specification 3.0">
 
-      <p>Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from <link>http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/</link></p>
+      <p>Attribute Specification, Version 3.0, NIEM Technical Architecture Committee (NTAC), 31 July 2014. Available from <link>http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/</link>.</p>
 
     </reference>
 
     <reference id="NIEMNDR50" label="NIEM NDR 5.0">
 
-      <p>NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from TBD</p>
+      <p>NIEM Naming and Design Rules, Version 5.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from <link>https://reference.niem.gov/niem/specification/naming-and-design-rules/</link>.</p>
 
     </reference>
 
-    <reference id="NIEMMPDSpecification40" label="NIEM MPD Specification 4.0">
+    <reference id="NIEMIEPDSpecification50" label="NIEM IEPD Specification 5.0">
 
-      <p>NIEM Model Package Description (MPD) Specification, Version 4.0, NIEM Technical Architecture Committee (NTAC), 15 August 2014. Available from <link>http://reference.niem.gov/niem/specification/model-package-description/4.0/</link></p>
-
-    </reference>
-
-    <reference id="NIEMMessageSpecificationRulesandConventions" label="NIEM Message Specification Rules and Conventions">
-
-      <p>NIEM Message Specification Rules and Conventions, Version 1.0, NIEM Technical Architecture Committee (NTAC), TBD. Available from TBD</p>
+      <p>NIEM Information Exchange Package
+		Documentation (IEPD) Specification, Version 5.0, NIEM Technical Architecture Committee (NTAC), December 17 2020. Available from <link>http://reference.niem.gov/niem/specification/model-package-description/</link>.</p>
 
     </reference>
 
     <reference id="NIEMToolsCatalog" label="NIEM Tools Catalog">
 
-      <p>NIEM Tools Catalog, NIEM Management Office (MO). Available from <link>https://www.niem.gov/tools-catalog</link></p>
+      <p>NIEM Tools Catalog, NIEM Management Office (MO). Available from <link>https://www.niem.gov/tools-catalog</link>.</p>
 
     </reference>
 
     <reference id="W3-EXI" label="Efficient XML Interchange (EXI)">
 
-      <p>Efficient XML Interchange (EXI) Format 1.0 (Second Edition), W3C. Available from <link>https://www.w3.org/TR/exi/</link></p>
+      <p>Efficient XML Interchange (EXI) Format 1.0 (Second Edition), W3C. Available from <link>https://www.w3.org/TR/exi/</link>.</p>
 
     </reference>
 

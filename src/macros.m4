@@ -1,8 +1,8 @@
 m4_changequote([[[,]]])m4_dnl
 m4_changecom(,)m4_dnl
 m4_define([[[MACRO_SPECIFIED_VERSION]]],[[[5.0]]])m4_dnl What version is the spec representing? (e.g., 4.0, 4.1)
-m4_define([[[MACRO_DOCUMENT_VERSION]]],[[[5.0]]])m4_dnl What version is the spec representing? (e.g., 4.0, 4.1)
-m4_define([[[MACRO_DOCUMENT_DATE]]],[[[2020-11-25]]])m4_dnl
+m4_define([[[MACRO_DOCUMENT_VERSION]]],[[[5.0alpha1]]])m4_dnl What version is the spec representing? (e.g., 4.0, 4.1)
+m4_define([[[MACRO_DOCUMENT_DATE]]],[[[2020-12-17]]])m4_dnl
 m4_define([[[MACRO_SHORT_NAME]]],[[[conformance]]])m4_dnl
 m4_define([[[MACRO_DOCUMENT_URI]]],[[[http://reference.niem.gov/niem/specification/MACRO_SHORT_NAME/MACRO_SPECIFIED_VERSION/]]])m4_dnl
 m4_dnl conformance targets
