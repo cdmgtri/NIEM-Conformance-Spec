@@ -1,6 +1,6 @@
 National Information Exchange Model Conformance Specification
 
-Version 5.0alpha1
+Version 5.0beta1
 
 December 17, 2020
 
