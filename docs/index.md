@@ -1,8 +1,8 @@
 ---
-title: NIEM Naming and Design Rules
+title: NIEM Conformance Specification
 ---
 
-The NIEM Naming and Design Rules specifies the data model, XML Schema components, and XML data for use with the National Information Exchange Model (NIEM).
+This document specifies general conformance guidance, principles, and rules for the National Information Exchange Model (NIEM) version 5.0.
 
 # Current version
 
