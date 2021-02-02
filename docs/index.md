@@ -1,5 +1,9 @@
 ---
-title: NIEM Conformance Specification
+latest:
+  draft: Version 5.0 beta1
+  url: ./v5.0beta1/niem-conformance-spec.html
+  changes: https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v5.0beta1
+  published: December 2020
 ---
 
 This document specifies general conformance guidance, principles, and rules for the National Information Exchange Model (NIEM).
@@ -8,19 +12,12 @@ Submit feedback as a [new issue](https://github.com/NIEM/NIEM-Conformance-Spec/i
 
 ## Latest draft
 
-- **Version 5.0 beta1** (published 2020) - available as [html](./v5.0beta1/niem-conformance-spec.html), [text](./v5.0beta1/niem-conformance-spec.txt), or a [pre-release](https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v5.0beta1) on GitHub
-
-  Changes include:
-
-  - Re-written for clarity and brevity
-  - Revamped using new abstract text.
-  - Updated Status section to conform to the NDR's version.
-  - Updated references
+- **[{{ page.latest.draft }}]({{ page.latest.url | relative_url }})**, published {{ page.latest.published }}.  See [changes]({{ page.latest.changes }}).
 
 ## Current version
 
-- **Version 3.0** (published 2014) - available as [html](./v3.0/conformance-spec.html) or a [release](https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v3.0) on GitHub
+- **[Version 3.0](./v3.0/conformance-spec.html)**, published 2014.
 
 ## Previous versions
 
-- **Version 1.0** (published 2008) - available as a [pdf](./v1.0/conformance-1.0.pdf) or a [release](https://github.com/NIEM/NIEM-Conformance-Spec/releases/tag/v1.0) on GitHub.
+- **[Version 1.0](./v1.0/conformance-1.0.pdf)**, published 2008.
